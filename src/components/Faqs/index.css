@@ -1,0 +1,24 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f1f5f8;
+}
+.faq-container {
+  display: flex;
+  background-color: #ffffff;
+  padding: 15px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 34px;
+  color: #cb8805;
+  font-weight: bold;
+  padding: 8px;
+}
+.faqs-list {
+  width: 100%;
+  list-style-type: none;
+  padding: 0px;
+}
